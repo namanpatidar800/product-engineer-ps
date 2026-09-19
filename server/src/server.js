@@ -6,7 +6,7 @@ import { DeterministicProvider } from './provider.js';
 import { MongoConversationRepository } from './repositories/mongoConversationRepository.js';
 import { RuntimeEngine } from './runtimeEngine.js';
 
-config({ path: fileURLToPath(new URL('../../.env', import.meta.url)) });
+config({ path: fileURLToPath(new URL('../../.env', import.meta.url)), quiet: true });
 
 if (!process.env.MONGODB_URI) {
   console.error('MONGODB_URI is required. Copy .env.example to .env and add your MongoDB Atlas connection string.');
