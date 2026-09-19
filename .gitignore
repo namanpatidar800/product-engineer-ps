@@ -1,0 +1,7 @@
+.tools/
+node_modules/
+client/dist/
+.env
+npm-debug.log*
+.idea/
+.vscode/
