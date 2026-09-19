@@ -6,15 +6,12 @@
   "workspaces": ["server", "client"],
   "engines": { "node": ">=22" },
   "scripts": {
-    "dev": "concurrently --raw -k \"node --watch server/src/server.js\" \"node node_modules/vite/bin/vite.js client --config client/vite.config.js\"",
+    "dev": "node scripts/run-services.js",
     "build": "npm run build -w client",
-    "start": "concurrently --raw -k \"node server/src/server.js\" \"node node_modules/vite/bin/vite.js preview client --config client/vite.config.js\"",
+    "start": "node scripts/run-services.js --production",
     "start:backend": "npm run start -w server",
     "start:frontend": "npm run preview -w client",
     "test": "node --test server/test/*.test.js",
     "benchmark": "node server/src/benchmark.js"
-  },
-  "devDependencies": {
-    "concurrently": "^9.2.1"
   }
 }
