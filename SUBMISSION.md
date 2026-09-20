@@ -3,7 +3,7 @@
 ## Candidate
 
 - **Name:** Naman Patidar
-- **Email:** namanpatidar800@gmail.com
+- **Email:** [namanpatidar800@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJNqsdmRdkBGZCCnpqBcJDBSHHcndmcvGgKMWlQrsNCwVBPRSnGKJCcPczNPjhjtQWZkPDq)
 - **GitHub:** [https://github.com/namanpatidar800](https://github.com/namanpatidar800)
 - **Selected problem:** Problem 5 — Reliable AI Conversation Runtime
 - **Demo video:** [Google Drive recording](https://drive.google.com/file/d/13ej7jCsvnXT6OAy_OFgMKMzY_RlPgRyo/view?usp=sharing)
