@@ -6,7 +6,7 @@
 - **Email:** namanpatidar800@gmail.com
 - **GitHub:** [https://github.com/namanpatidar800](https://github.com/namanpatidar800)
 - **Selected problem:** Problem 5 — Reliable AI Conversation Runtime
-- **Demo video:** TODO — add a publicly accessible 3–5 minute video URL
+- **Demo video:** [Google Drive recording](https://drive.google.com/file/d/13ej7jCsvnXT6OAy_OFgMKMzY_RlPgRyo/view?usp=sharing)
 
 ## Run the project
 
